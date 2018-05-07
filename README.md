@@ -11,7 +11,7 @@
 [![Dependencies badge](https://david-dm.org/MediaXPost/mail-template-helper/status.svg)](https://david-dm.org/MediaXPost/mail-template-helper?view=list)
 
 
-`mail-template-helper` is a set of simple tools to deal with the AES-256 encryption and decryption of data with arbitrary lengths.
+`mail-template-helper` is a helper module to assist with compilation of email templates.
 
 # [Installation](#installation)
 <a name="installation"></a>
