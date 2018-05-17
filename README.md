@@ -48,19 +48,19 @@ console.log(mailTemplateHelper.getFilledTemplate('Test2', {
 # [API Reference](#api)
 <a name="api"></a>
 
-## MailTemplatesHelper constructor(templates) ⇒ instanceof MailTemplatesHelper
+## MailTemplatesHelper constructor(templates) &#x27fe; instanceof MailTemplatesHelper
 Create an instance of MailTemplatesHelper with the `templates` collection provided.
 
-## MailTemplatesHelper.getTemplate(templateName) ⇒ object(mail template) / null
+## MailTemplatesHelper.getTemplate(templateName) &#x27fe; object(mail template) / null
 Returns the template with the `templateName` provided or `null` if the template does not exist
 
-## MailTemplatesHelper.getFilledSubject(templateName, data) ⇒ string / null
+## MailTemplatesHelper.getFilledSubject(templateName, data) &#x27fe; string / null
 Returns the template subject from the `templateName` provided, using the `data` to fill any `{}` placeholders, or `null` if no template by that name exists.
 
-## MailTemplatesHelper.getFilledBody(templateName, data) ⇒ string / null
+## MailTemplatesHelper.getFilledBody(templateName, data) &#x27fe; string / null
 Returns the template body from the `templateName` provided, using the `data` to fill any `{}` placeholders, or `null` if no template by that name exists.
 
-## MailTemplatesHelper.getCustomFilled(template, data) ⇒ string / null
+## MailTemplatesHelper.getCustomFilled(template, data) &#x27fe; string / null
 Returns custom `template` filled using the `data` to fill any `{}` placeholders, or `null` if the `template` is `null` or `undefined`
 
 # [Templates and Collections](#templates)
