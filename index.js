@@ -1,7 +1,7 @@
 // mailTemplatesHelper.js
 
 // Dependencies
-const __ = require('@mediaxpost/lodashext');
+const __ = require('@outofsync/lodash-ex');
 const Sugar = require('sugar');
 
 class MailTemplatesHelper {
