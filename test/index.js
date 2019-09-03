@@ -27,7 +27,7 @@ const data = {
 describe('Mail Templates Helper', () => {
   let mailTemplateHelper;
 
-  before(async() => {
+  before(() => {
     mailTemplateHelper = new MailTemplatesHelper(templates);
   });
 
