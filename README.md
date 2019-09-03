@@ -6,8 +6,8 @@
 [![Travis build status](https://travis-ci.org/OutOfSyncStudios/mail-template-helper.svg)](https://www.npmjs.org/package/@outofsync/mail-template-helper)
 [![Total npm module downloads](http://img.shields.io/npm/dt/@outofsync/mail-template-helper.svg)](https://www.npmjs.org/package/@outofsync/mail-template-helper)
 [![Package Quality](http://npm.packagequality.com/badge/@outofsync/mail-template-helper.png)](http://packagequality.com/#?package=@outofsync/mail-template-helper)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/43225424afb04627afd2e026712d5281)](https://www.codacy.com/app/chronosis/mail-template-helper?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OutOfSyncStudios/mail-template-helper&amp;utm_campaign=Badge_Grade)
-[![Codacy Coverage  Badge](https://api.codacy.com/project/badge/Coverage/43225424afb04627afd2e026712d5281)](https://www.codacy.com/app/chronosis/mail-template-helper?utm_source=github.com&utm_medium=referral&utm_content=OutOfSyncStudios/mail-template-helper&utm_campaign=Badge_Coverage)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/43225424afb04627afd2e026712d5281)](https://www.codacy.com/app/OutOfSyncStudios/mail-template-helper?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OutOfSyncStudios/mail-template-helper&amp;utm_campaign=Badge_Grade)
+[![Codacy Coverage  Badge](https://api.codacy.com/project/badge/Coverage/43225424afb04627afd2e026712d5281)](https://www.codacy.com/app/OutOfSyncStudios/mail-template-helper?utm_source=github.com&utm_medium=referral&utm_content=OutOfSyncStudios/mail-template-helper&utm_campaign=Badge_Coverage)
 [![Dependencies badge](https://david-dm.org/OutOfSyncStudios/mail-template-helper/status.svg)](https://david-dm.org/OutOfSyncStudios/mail-template-helper?view=list)
 
 
